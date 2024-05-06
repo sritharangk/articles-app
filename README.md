@@ -1,4 +1,5 @@
 # Articles App
+## Thank to  - Yamen Abdullrahman - Senior Flutter Developer;
 
 # Medium Articles
 [Clean Architecture in Flutter](https://medium.com/@yamen.abd98/clean-architecture-in-flutter-mvvm-bloc-dio-79b1615530e1)
@@ -35,14 +36,12 @@ Articles, display article details, and see more about details from url.
 - View Image And Zoom It.
 - Create a lane to generate apk automatically when upload code to the main branch.
 
-![Text Coverage](https://github.com/YAMMEN98/ny-times-flutter-app/blob/main/actions.png)
-
 - Apply Unit Testing .
 
 ## Built With
 
-- [Flutter](https://github.com/vedranMv/dataDashboard/releases) - The framework used).
-- [The New Work a Times API](https://developer.nytimes.com/) - API used for weather data.
+- [Flutter](https://flutter.dev/) - The framework used).
+- [The New Work a Times API](https://developer.nytimes.com/) - API used for data.
 
 ## Unit Test
 
@@ -66,8 +65,6 @@ report, follow these steps to run it:
       by ```flutter pub run test_cov_console -c --output=coverage/test_coverage.csv```
     - Open CSV file by excel and you will see like this result:
 
-      ![Text Coverage](https://github.com/YAMMEN98/ny-times-flutter-app/blob/main/test_coverage.png)
+      ![Text Coverage](coverage/test_coverage.csv)
 
-## Author
 
-Yamen Abdullrahman - Senior Flutter Developer;
